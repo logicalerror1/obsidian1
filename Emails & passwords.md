@@ -1,0 +1,4 @@
+- we try to collect emails from all sources available then after obtaining those emails we start looking them up in any leaked emails or any leakage  that may have happened that is done using any website from the following [hunter.io](https://hunter.io/) , or [dehashed](https://app.dehashed.com/search)  or [breached directory](https://breachdirectory.org/) 
+- the second step is after obtaining the emails form this websites we start to get the hash for the passwords for the emails that we found then we go to [crack station](https://crackstation.net/) to crack the hash that we obtained from the websites before now we have an email and its password for a leaked account
+- intelligence x and dark enter are one of the best website for gathering leaked info because they depends on logs
+- another website that is famous for leaked info is triage , 
